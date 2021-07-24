@@ -1,4 +1,5 @@
 .body_backgorund {
+  background-image: url("bg1.jpg");
     background-position: center;
     background-size: cover;
   }
